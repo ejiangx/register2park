@@ -1,0 +1,12 @@
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\RegisterParking.exe.config
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\RegisterParking.exe
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\RegisterParking.pdb
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\WebDriver.dll
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\WebDriver.xml
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\obj\Debug\RegisterParking.csprojAssemblyReference.cache
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\obj\Debug\RegisterParking.csproj.CoreCompileInputs.cache
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\obj\Debug\RegisterParking.csproj.CopyComplete
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\obj\Debug\RegisterParking.exe
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\obj\Debug\RegisterParking.pdb
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\WebDriver.Support.dll
+C:\Users\ejiang\Documents\Projects\RegisterParking\RegisterParking\bin\Debug\WebDriver.Support.xml
